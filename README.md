@@ -1,6 +1,6 @@
 # Address-Book-Group-Project-CS2600
 
-A console based application which uses standard I/O for adding and deleting contact names, phone numbers and email addresses, searching names and associated numbers and email addresses, updating numbers and email addresses, and deleting contacts
+A console based application which uses standard I/O for adding and deleting contact names, phone numbers and email addresses, searching names and associated numbers and email addresses, updating numbers and email addresses, and deleting contacts. Contact information is saved in a .csv file
 
 This group project was done during my sophomore year at Cal Poly Pomona, which I forked from one of group members because I used my school github account to push changes.
 
